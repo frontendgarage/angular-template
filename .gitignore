@@ -39,3 +39,7 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+
+# E2E
+/e2e/screenshots
+/e2e/videos
